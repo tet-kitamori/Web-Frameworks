@@ -40,5 +40,5 @@ vue-cli がインストールされていれば、個々のプロジェクトは
 > npm install      // 必要なパッケージをインストール
 > npm run dev      // nuxt 実行
 ```
-3. Webブラウザで `http:\\localhost:3000` とすると Vue-cli のページが表示される。
+3. Webブラウザで `http:\\localhost:3000` とすると Vue-cli紹介ページが表示される。
 

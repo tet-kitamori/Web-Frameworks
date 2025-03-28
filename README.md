@@ -72,6 +72,6 @@ PowerShell の上からであれば、`Get-ExecutionPolicy -List`　で確認で
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 ```
 で、カレントユーザの権限を 'RemoteSigned'に変更できます。
- 'RemoteSigned'は、ローカルで作成されたスクリプトは制限なく実行できますが、
+ 'RemoteSigned'　では、ローカルで作成されたスクリプトは制限なく実行できますが、
  インターネットから取得したスクリプトには信頼された署名が必要です。
 詳細は、Copilot！
